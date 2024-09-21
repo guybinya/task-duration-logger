@@ -1,0 +1,38 @@
+{
+  "name": "task-duration-logger",
+  "version": "1.0.0",
+  "description": "A lightweight utility to log process durations, track average times, and estimate remaining time for tasks. Ideal for monitoring the performance of batch operations or long-running processes.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "duration",
+    "time",
+    "log",
+    "tracker",
+    "performance",
+    "timing",
+    "average",
+    "task",
+    "process",
+    "estimate",
+    "metrics",
+    "execution",
+    "logger",
+    "performance-logger",
+    "time-tracker",
+    "batch-processing",
+    "task-duration",
+    "timing-utility",
+    "node",
+    "typescript"
+  ],
+  "author": "Binya",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
